@@ -43,7 +43,6 @@
 			<Add library="libIceUtil" />
 		</Linker>
 		<Unit filename="main.cpp" />
-		<Unit filename="mainwindow.ui" />
 		<Extensions>
 			<envvars />
 			<code_completion />
